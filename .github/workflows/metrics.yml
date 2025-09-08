@@ -1,0 +1,17 @@
+name: GitHub Metrics
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity          # shows commits, PRs, issues
+          plugin_isocalendar: yes # daily commit calendar
+          plugin_habits: yes      # commit habits
