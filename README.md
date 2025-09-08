@@ -22,5 +22,6 @@ I've a deep passion for both science and real-world technologies with an insatia
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tshihab07&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api?username=tshihab07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshihab07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshihab07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px"/>
 </div>
