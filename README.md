@@ -1,4 +1,4 @@
-## 👋🏻 Hi,  I'm Md. Tushar Shihab
+## 👋🏻 Hi,  I'm Tushar Shihab
 
 I've a deep passion for both science and real-world technologies with an insatiable curiosity for learning, particularly in the fields of technology and research, intending to address real-world engineering challenges. My primary interests lie in Artificial Intelligence, especially in applying Machine Learning and Deep Learning techniques to solve complex problems
 
